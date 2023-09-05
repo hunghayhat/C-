@@ -1,0 +1,12 @@
+xuống dòng: \n endl
+
+Các kiểu dữ liệu:
+1. boolean: 1 byte
+2. char: 1 byte
+3. int: 2 hoặc 4 byte
+4. float: 4 byte
+5. double: 8 byte 
+
+Hàm trả về kích thước của mảng: sizeof()
+
+phím tắt tự động căn lề: alt + shift + f
